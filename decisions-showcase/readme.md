@@ -20,6 +20,7 @@ To build and install the kjar in  your local maven repository (`~/.m2/repository
 mvn clean install -DskipTests
 ```
 
+
 ## Deploying your Rules 
 
 Take a look at the [business-application-service](../business-application-service) instructions to see how you can deploy and run your kjar using the Immutable Kie Server Spring Boot runtime in your local environment. 
