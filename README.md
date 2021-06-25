@@ -1,5 +1,6 @@
 # Red Hat Business Automation Showcase
 
+
 This repository contains projects that showcase some capabilities provided by the Red Hat Business Automation Solution Portfolio. Red Hat Process Automation solutions are application development platforms,
 designed to enable business users to participate with IT developers in the creation of modern cloud-native applications. These platforms are called:
 
